@@ -1,0 +1,7 @@
+4
+John 3 orange juice 3.00 pancakes 4.00 eggs 1.00
+Jerry 1 apple juice 2.00
+Darshan birthday 2 waffles 3.00 chicken 2.00
+George 1 bagel 3.50
+4.53
+5.00

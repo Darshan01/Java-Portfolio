@@ -1,0 +1,9 @@
+John $12.843333333333334 (orange juice , pancakes , eggs )
+Jerry $6.843333333333334 (apple juice )
+Darshan $0.0 Happy Birthday! (waffles , chicken )
+George $8.343333333333334 (bagel )
+
+Total before tax and tip: 18.5
+Tax: 4.53
+Tip: 5.0
+Total: 28.03
